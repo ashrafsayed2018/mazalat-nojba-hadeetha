@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:admin="http://webns.net/mvcb/"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+    <title>مظلات وسواتر مؤسسة السبيعي  &amp; : عشب صناعي</title>
+    <atom:link href="https://www.swateer-world.com/rss/latest-posts" rel="self" type="application/rss+xml" />
+    <link>https://www.swateer-world.com/rss/category/عشب-صناعي</link>
+    <description>مظلات وسواتر مؤسسة السبيعي  &amp; : عشب صناعي</description>
+    <dc:language>ar</dc:language>
+    <dc:creator></dc:creator>
+    <dc:rights>جميع الحقوق محفوظة  لـ  مظلات وسواتر السبيعي السعودية© 2022</dc:rights>
+    </channel>
+</rss>
